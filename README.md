@@ -25,7 +25,7 @@ CT input at inference time.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{vu2025diffcas,
+@article{vu2026diffcas,
   title={DiffCAS: Inference-time CT-free Diffusion Model for Physics-aware 
          Multi-slice Attenuation Correction in Cardiac SPECT},
   author={Vu, Hoang Minh and Pham, Trung Kien and Nguyen, Thi Ha Chi and 
