@@ -1,6 +1,5 @@
 # DiffCAS: Inference-time CT-free Diffusion Model for Physics-aware Multi-slice Attenuation Correction in Cardiac SPECT
 
-[![Paper](https://img.shields.io/badge/Paper-Artificial%20Intelligence%20in%20Medicine-blue)](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
