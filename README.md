@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+🎉 **August 12, 2026** — Our paper has been accepted for publication in *Artificial Intelligence in Medicine* (IF: 7.8).
+
 ## Overview
 
 DiffCAS generates attenuation-corrected (AC) cardiac SPECT images directly from
